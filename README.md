@@ -25,7 +25,10 @@ flutter-ui-task1/
 
  ## 📌 App Screenshots 📷
  Here is a preview of the app interface:
+
+ 
 ![App Screenshot](assets/images/flutter_ui_task1.png)
+
 
 
 
