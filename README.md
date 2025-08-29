@@ -14,22 +14,23 @@ The app includes practical examples of:
 ## 📌 Project Goal
 The purpose of this project is to practice and understand the usage of basic Flutter Widgets while building a simple UI as part of Task 1.
 
-## 📌 Project Structure 📂
--------------------
+## 📌 App Screenshots 📷
+ Here is a preview of the app interface:
+
+ 
+![App Screenshot](assets/images/flutter_ui_task1.png)
+
+## 📌 Project Structure
+
+```plaintext
 flutter-ui-task1/
   ├── lib/
   │   └── main.dart  # Main application code
   ├── assets/
   |      ├── images/ # Project images
   ├── pubspec.yaml   # Dependencies & configuration
-  └── README.md      # Project documentation
+  └── README.md      # Project documentation                     
 
-
- ## 📌 App Screenshots 📷
- Here is a preview of the app interface:
-
- 
-![App Screenshot](assets/images/flutter_ui_task1.png)
 
 
 
